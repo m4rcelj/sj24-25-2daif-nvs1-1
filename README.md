@@ -4,7 +4,7 @@ Ressourcen zum Unterricht
 
 ## Schwerpunkt Netzwerktechnik
 
-- http Protokoll
+- http Protokoll cookies - sessions
 - git / vscode
 - subnetting
 - dns
