@@ -1,8 +1,23 @@
 # Student Repos
 
-- Douihech: <https://github.com/DOU240974/NVS.git>
-- Pavkovic: <https://github.com/S1156/NVS.git>
-- Ivanov: <https://github.com/FalcoXVI/NVS_Ivanov.git> neuer
+- Amic Marcel: <https://github.com/m4rcelj/sj24-25-2daif-nvs1.git>
+- Ataman Berkant: <https://github.com/Berkant01/sj24-25-2daif-nvsl-ataman>
+- Ataman Berkay: <https://github.com/atamanberkay/sj24-25-2daif-nvs1.git>
+- Bozic Simon: <https://github.com/NeunExponent117/NVS_Bozic.git>
 - Cigci: <https://github.com/cigci/sj24-25-2daif-nvs1-cigci.git>
-- Holzgethan: <https://github.com/Holzgethanh/sj24-25-2daif-nvs1_Holzgethan.git>
+- Demirbas Kaan: <https://github.com/DEM240973/sj24-25-2daif-nvs1.git>
+- Douihech: <https://github.com/DOU240974/NVS.git>
+- Ekinci Toprak: <https://github.com/SkrenScript/NVS>
+- Heilmann Tobias: <https://github.com/T0bmast4/NVS.git>
 - Heimberger: <https://github.com/Bernhard86/NVS.git>
+- Holzgethan: <https://github.com/Holzgethanh/sj24-25-2daif-nvs1_Holzgethan.git>
+- Ivanov: <https://github.com/FalcoXVI/NVS_Ivanov.git> neuer
+- Krajinovic Robert: <https://github.com/Sajberluk/NVS.git>
+- Kul Cesur: <https://github.com/Kul-123/nvs_kul.git>
+- Kurta Sebastian: <https://github.com/bast-bit/NVS>
+- Özdemir Cagribey: <https://github.com/OEZ240986/sj24-25-2daif-nvs1>
+- Pavkovic: <https://github.com/S1156/NVS.git>
+- Schmid Moriz: <https://github.com/mobisd/NVS_2DAIF_Schmid.git>
+- Tatai Mark: <https://github.com/markt07/sj24-2daif-nvs1.git>
+- Turitsov Ivailo: <https://github.com/TUR210548/NVS>
+- Wilk Benjamint: <https://github.com/King-ElWebo/NVS.git>
