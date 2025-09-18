@@ -1,0 +1,14 @@
+Aufgabe: Recherche und Kurzpräsentation
+Recherchieren Sie auf z.B. https://developer.mozilla.org/de/ und finden Sie etwas interessantes über html5, das nicht allgemein bekannt ist. 4.B. ein Element, oder Attribut, oder eine andere Besonderheit.
+Fassen Sie Ihre Rechercheergebnis in zwei bis drei Sätzen zusammen, und präsentieren Sie es in unter einer
+Minute in der Klasse.
+
+Antwort:
+
+Mit <meter> kann man einen Wert in Form eines Balkens anzeigen. zum Beispiel einen Ladebalken/Fortschrittsanzeige.
+
+Anwendung:
+<meter value="0.6" min="0" max="1">60%</meter>
+
+Der Browser zeigt nun automatisch einen Balken an mit dem gegebenen Fortschritt.
+Alternativ gibt es auch <progress>.
